@@ -1,0 +1,127 @@
+,Código,Descrição da Categoria
+0,1,Componente Organizacional
+1,2,Componente de Conteúdo e Estrutura
+2,3,Componente de Representação de Conceitos em Saúde
+3,5,Componente de Segurança e Privacidade
+4,18,"Terminologia de diárias, taxas e gases medicinais"
+5,19,Terminologia de materiais e OPME
+6,20,Terminologia de medicamentos
+7,22,Terminologia de procedimentos e eventos em saúde
+8,23,Terminologia de caráter do atendimento
+9,24,Terminologia de Classificação Brasileira de Ocupações (CBO)
+10,25,Terminologia de código da despesa
+11,26,Terminologia de conselho profissional
+12,27,Terminologia de débitos e créditos
+13,28,Terminologia de dentes
+14,29,Terminologia de diagnóstico por imagem
+15,30,Terminologia de Escala de capacidade funcional (ECOG - Escala de Zubrod)
+16,31,Terminologia de estadiamento do tumor
+17,32,Terminologia de faces do dente
+18,33,Terminologia de finalidade do tratamento
+19,34,Terminologia de forma de pagamento
+20,35,Terminologia de grau de participação
+21,36,Terminologia de indicador de acidente
+22,37,Terminologia de Indicador de débito ou crédito
+23,38,"Terminologia de mensagens (glosas, negativas e outras)"
+24,39,Terminologia de motivo de encerramento
+25,40,Terminologia de origem do evento de atenção à saúde
+26,41,Terminologia de regime de internação
+27,42,Terminologia de regiões da boca
+28,43,Terminologia de sexo
+29,45,Terminologia de status da solicitação
+30,46,Terminologia de status do cancelamento
+31,47,Terminologia de status do protocolo
+32,48,Terminologia de técnica utilizada
+33,49,Terminologia de tipo de acomodação
+34,50,Terminologia de tipo de atendimento
+35,51,Terminologia de tipo de atendimento em odontologia
+36,52,Terminologia de tipo de consulta
+37,53,Terminologia de tipo de demonstrativo
+38,54,Terminologia de tipo de guia
+39,55,Terminologia de tipo de faturamento
+40,56,Terminologia de natureza da guia
+41,57,Terminologia de tipo de internação
+42,58,Terminologia de tipo de quimioterapia
+43,59,Terminologia de unidade da federação
+44,60,Terminologia de unidade de medida
+45,61,Terminologia de via de acesso
+46,62,Terminologia de via de administração
+47,63,Terminologia de grupos de procedimentos e itens assistenciais para envio para ANS
+48,64,Terminologia de forma de envio de procedimentos e itens assistenciais para ANS
+49,65,Terminologia de metástases
+50,66,Terminologia de nódulo
+51,67,Terminologia de tumor
+52,68,Terminologia de categoria de despesa
+53,69,Terminologia de versão do componente de comunicação padrão
+54,70,Terminologia de forma de envio do padrão
+55,72,Terminologia de tipo de identificação de beneficiário
+56,73,Terminologia de etapas de autorização
+57,74,Terminologia de motivos de ausência do código de validação
+58,87,Terminologia de tabelas de domínio
+59,100,Legenda da mensagem de verificação de elegibilidade
+60,101,Legenda da mensagem de resposta à verificação de elegibilidade
+61,102,Legenda da mensagem de solicitação de autorização para realização de procedimentos
+62,103,Legenda da mensagem de autorização para realização de procedimentos
+63,104,Legenda da mensagem de envio de lote de anexos
+64,105,Legenda da mensagem de recebimento de lote de anexos
+65,106,Legenda da mensagem de solicitação de status de autorização
+66,107,Legenda da mensagem de situação do status de autorização
+67,108,Legenda da mensagem de envio de lote de guias para cobrança
+68,109,Legenda da mensagem de recebimento de lote de guias de cobrança
+69,110,Legenda da mensagem de solicitação de status do protocolo
+70,111,Legenda da mensagem de situação do protocolo de cobrança
+71,112,Legenda da mensagem de recurso de glosa
+72,113,Legenda da mensagem de recebimento do recurso de glosa
+73,114,Legenda da mensagem de resposta ao recurso de glosa
+74,115,Legenda da mensagem de solicitação de status do recurso de glosa
+75,116,Legenda da mensagem de solicitação de demonstrativos de retorno
+76,117,Legenda da mensagem de demonstrativos de retorno para o prestador
+77,118,Legenda da mensagem de comunicação de internação ou alta do beneficiário
+78,119,Legenda da mensagem de resposta à comunicação de internação ou alta do beneficiário
+79,120,Legenda da mensagem de solicitação de cancelamento de guia
+80,122,Legenda da mensagem de informação acerca da negativa de autorização
+81,123,Legenda da mensagem de informações sobre partos
+82,124,Legenda da mensagem de envio de dados para ANS
+83,125,Legenda da mensagem de utilização de serviços
+84,126,Legenda da mensagem de negativa de autorização
+85,127,Legenda da mensagem de informação sobre partos
+86,128,Mensagem de verificação de elegibilidade (verificaElegibilidade)
+87,129,Mensagem de resposta à verificação de elegibilidade (respostaElegibilidade)
+88,130,Mensagem de solicitação de autorização para realização de procedimentos (solicitacaoProcedimento)
+89,131,Mensagem de autorização para realização de procedimentos (autorizaçãoServiços)
+90,132,Mensagem de envio de lote de anexos (LoteAnexos)
+91,133,Mensagem de recebimento de lote de anexos (recebimentoAnexo)
+92,134,Mensagem de solicitação de status de autorização (solicitaStatusAutorização)
+93,135,Mensagem de situação do status de autorização (situaçãoAutorização)
+94,136,Mensagem de envio de lote de guias para cobrança (Loteguias)
+95,137,Mensagem de recebimento de lote de guias de cobrança (recebimentoLote)
+96,138,Mensagem de solicitação de status do protocolo (solicitacaoStatusProtocolo)
+97,139,Mensagem de situação do protocolo de cobrança (situacaoProtocolo)
+98,140,Mensagem de recurso de glosa (recursoGlosa)
+99,141,Mensagem de recebimento do recurso de glosa (recebimentoRecursoGlosa)
+100,142,Mensagem de resposta ao recurso de glosa (respostaRecursoGlosa)
+101,143,Mensagem de solicitação de status do recurso de glosa (solicitaçãoStatusRecursoGlosa)
+102,144,Mensagem de solicitação de demonstrativos de retorno (solicitaçãoDemonstrativoRetorno)
+103,145,Mensagem de demonstrativos de retorno para o prestador (demonstrativosretorno)
+104,147,Mensagem de resposta à comunicação de internação ou alta do beneficiário (reciboComunicacao)
+105,148,Mensagem de solicitação de cancelamento de guia (cancelaGuia)
+106,149,Mensagem de resposta a solicitação de cancelamento da guia (reciboCancelaGuia)
+107,150,Mensagem de envio de dados para ANS (envioOperadorasANS)
+108,151,Anexo de outras despesas
+109,152,Anexo de solicitação de quimioterapia
+110,153,Anexo de solicitação de radioterapia
+111,154,Anexo de solicitação OPME
+112,155,Anexo tratamento odontológico - situação inicial
+113,156,Guia de comprovante presencial
+114,157,Guia de consulta
+115,158,Guia de demonstrativo de análise da conta
+116,159,Guia de demonstrativo de pagamento
+117,160,Guia de demonstrativo de pagamento - tratamento odontológico
+118,161,Guia de honorários
+119,162,Guia de recurso de glosa
+120,163,Guia de recurso de glosa odontológica
+121,164,Guia de resumo de internação
+122,165,Guia de serviços profissionais/serviço auxiliar de diagnóstico e terapia
+123,166,Guia de solicitação de internação
+124,167,Guia de solicitação de prorrogação de internação ou complementação do tratamento
+125,168,Guia de tratamento odontológico
