@@ -1,5 +1,5 @@
 <a>
-     <img src="https://github.com/AndreMartins21/Teste-Nivelamento-IntuitiveCare/blob/main/logo.jpg"/>
+     <img src="https://github.com/AndreMartins21/Teste_Nivelamento_IntuitiveCare/blob/main/Arquivos/logo.jpg"/>
 </a>
 
 # <> Teste de Nivelamento - Desenvolvedor de Software
