@@ -8,7 +8,7 @@
 
 - **Candidato responsável:** André Augusto Moreira Martins
 
-- Para a realização dos testes, utilizei de uma infra em nuvem, Google Colabority, a qual disponibiliza o uso de Jupyter Nutebooks (em Python).
+- Para a realização dos testes, utilizei de uma infra em nuvem, Google Colab, a qual disponibiliza o uso de Jupyter Nutebooks (em Python).
 
 ## Desafios Escolhidos:
 
