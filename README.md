@@ -8,6 +8,8 @@
 
 - **Candidato responsável:** André Augusto Moreira Martins
 
+- Para a realização dos testes, utilizei de uma infra em nuvem, Google Colabority, a qual disponibiliza o uso de Jupyter Nutebooks (em Python).
+
 ## Desafios Escolhidos:
 
 ***/> Teste 1*** - WebScraping 
@@ -18,6 +20,7 @@ Tarefas de código:
     - 1.2 - Buscar a versão mais recente do Padrão TISS (arquivo - padrao_tiss_componente_organizacional_201902.pdf);
     - 1.3 - Baixar o componente organizacional;
 ```
+- **Bibliotecas usadas:** Requests - BS4
 -------------------------------------------------------------------------------------------------
 
 ***/> Teste 2*** - Transformação de dados
@@ -28,7 +31,7 @@ Tarefas de código:
     - Salvar dados dessas tabelas em csvs;
     - Zipar todos os csvs num arquivo "Teste_Intuitive_Care_{seu_nome}.zip".
 ```
-
+- **Bibliotecas usadas:** Tabula - Pandas - Zipfile
 -------------------------------------------------------------------------------------------------
 
 ***/> Teste 3*** - Banco de dados 
