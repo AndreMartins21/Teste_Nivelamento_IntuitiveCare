@@ -8,11 +8,14 @@
 
 - **Candidato responsável:** André Augusto Moreira Martins
 
-- Para a realização dos testes, utilizei de uma infra em nuvem, Google Colab, a qual disponibiliza o uso de Jupyter Nutebooks (em Python).
+- **Recursos utilizados:** 
+<br>- Testes 1 e 2: Infra Google Colab, a qual permite a utilização de Jupyter Notebooks (Em Python);
+<br>- Teste 3: MySQL Workbench.
+
 
 ## Desafios Escolhidos:
 
-***/> Teste 1*** - WebScraping 
+***/> Teste 1*** - [WebScraping](https://github.com/AndreMartins21/Teste_Nivelamento_IntuitiveCare/blob/main/Teste1.ipynb) 
 ```
 Neste teste o candidato deverá criar um código (em uma das linguagens mencionadas no fim desse email) que execute as tarefas de código abaixo.
 Tarefas de código:
@@ -23,7 +26,7 @@ Tarefas de código:
 - **Bibliotecas usadas:** Requests - BS4
 -------------------------------------------------------------------------------------------------
 
-***/> Teste 2*** - Transformação de dados
+***/> Teste 2*** - [Transformação de dados](https://github.com/AndreMartins21/Teste_Nivelamento_IntuitiveCare/blob/main/Teste2.ipynb)
 ```
 Neste teste o candidato deverá criar um código (em uma das linguagens mencionadas no fim desse email) que execute as tarefas de código abaixo.
 Tarefas de código:
@@ -34,7 +37,7 @@ Tarefas de código:
 - **Bibliotecas usadas:** Tabula - Pandas - Zipfile
 -------------------------------------------------------------------------------------------------
 
-***/> Teste 3*** - Banco de dados 
+***/> Teste 3*** - [Banco de dados](https://github.com/AndreMartins21/Teste_Nivelamento_IntuitiveCare/blob/main/Teste3.sql) 
 ```
 Neste teste o candidato deverá criar scripts sql (MySQL 8.* ou Postgres >10.0) que execute as tarefas de código abaixo.
 Tarefas de Preparação:
@@ -46,3 +49,9 @@ Tarefas de código:
         - Quais as 10 operadoras que mais tiveram despesas com "EVENTOS/ SINISTROS CONHECIDOS OU AVISADOS  DE ASSISTÊNCIA A SAÚDE MEDICO HOSPITALAR" no último trimestre?
         - Quais as 10 operadoras que mais tiveram despesas com "EVENTOS/ SINISTROS CONHECIDOS OU AVISADOS  DE ASSISTÊNCIA A SAÚDE MEDICO HOSPITALAR" no último ano?
 ```
+
+**<> Resultado Obtido (Teste 3):**
+
+(10 operadoras que mais tiveram despesas com "EVENTOS/ SINISTROS CONHECIDOS OU AVISADOS  DE ASSISTÊNCIA A SAÚDE MEDICO HOSPITALAR" no 1° trimestre de 2021)
+![image](https://user-images.githubusercontent.com/64978311/121452326-a31ee680-c975-11eb-82bb-64dd65574ca8.png)
+**!P.S:** No resultado não está contido a totalidade de dados do CSV. No arquivo `Teste3.sql` essa questão está melhor descrevida.
