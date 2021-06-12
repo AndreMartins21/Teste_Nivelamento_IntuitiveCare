@@ -1,3 +1,5 @@
+[![Linkedin Badge](https://img.shields.io/badge/-André_Martins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-martins-3a9520201/)](https://www.linkedin.com/in/andre-martins-3a9520201)
+
 <a>
      <img src="https://github.com/AndreMartins21/Teste_Nivelamento_IntuitiveCare/blob/main/Arquivos/logo.jpg"/>
 </a>
