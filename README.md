@@ -55,5 +55,10 @@ Tarefas de código:
 **<> Resultado Obtido (Teste 3):**
 
 (10 operadoras que mais tiveram despesas com "EVENTOS/ SINISTROS CONHECIDOS OU AVISADOS  DE ASSISTÊNCIA A SAÚDE MEDICO HOSPITALAR" no 1° trimestre de 2021)
-![image](https://user-images.githubusercontent.com/64978311/121452326-a31ee680-c975-11eb-82bb-64dd65574ca8.png)
-**!P.S:** No resultado não está contido a totalidade de dados do CSV. No arquivo `Teste3.sql` essa questão está melhor descrevida.
+
+![image](https://user-images.githubusercontent.com/64978311/126925554-84fe662c-844b-4d53-ac4f-5b5a19918830.png)
+
+
+(10 operadoras que mais tiveram despesas com "EVENTOS/ SINISTROS CONHECIDOS OU AVISADOS  DE ASSISTÊNCIA A SAÚDE MEDICO HOSPITALAR" no último ano)
+
+![image](https://user-images.githubusercontent.com/64978311/126925424-4d8f1fcd-1252-48a8-867b-ffa3c6bf65ff.png)
